@@ -1,4 +1,4 @@
-package como.maru.challenge3.literalura;
+package com.maru.challenge3.literalura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
